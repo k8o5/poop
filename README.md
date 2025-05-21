@@ -43,7 +43,7 @@ Think of it as a conversational Python shell with AI super powers, designed to o
 
 1.  **Start POOP:**
     ```bash
-    python poop_agent.py # Or whatever you name the file
+    python poop.py # Or whatever you name the file
     ```
     (You'll see the welcome message, ASCII art, and the colored `POOP>` prompt)
 
@@ -118,10 +118,9 @@ Think of it as a conversational Python shell with AI super powers, designed to o
 
 2.  **Clone the Repository (Recommended):**
     ```bash
-    git clone <repository_url> # Replace with the actual repository URL
-    cd <repository_name>
+    git clone https://github.com/k8o5/poop 
+    cd poop
     ```
-    Or manually save the provided code as a `.py` file (e.g., `poop_agent.py`).
 
 3.  **Install Python Dependencies:**
     POOP requires the `google-generativeai` and `Pillow` libraries. Other libraries might be needed for specific tasks the LLM generates code for (e.g., `requests`, `pandas`, `numpy`, `matplotlib`).
@@ -217,7 +216,7 @@ Ideas, bug reports, and pull requests are welcome! Please feel free to open an i
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. (Note: You'll need to create a LICENSE file in your repository with the MIT license text).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgements
 
