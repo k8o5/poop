@@ -1,4 +1,4 @@
-# POOP: Python Operations Optimization Protocol
+# POOP: Programmatic Operations Optimization Protocol
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![Powered by Google Gemini](https://img.shields.io/badge/Powered%20by-Google%20Gemini-blue.svg)](https://ai.google.dev/models)
