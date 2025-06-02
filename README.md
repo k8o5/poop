@@ -24,9 +24,9 @@ Es wird dringend empfohlen, eine virtuelle Umgebung zu verwenden, um Abhängigke
 
    b. **Erstelle eine virtuelle Umgebung:**
       Führe im `poop`-Verzeichnis folgenden Befehl aus:
-      ```bash
+```bash
       python3 -m venv .venv
-      ```
+```
       (Oder `python -m venv .venv` wenn `python3` nicht dein Standardbefehl für Python 3 ist.)
 
    c. **Aktiviere die virtuelle Umgebung:**
