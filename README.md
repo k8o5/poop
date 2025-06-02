@@ -31,16 +31,18 @@ python3 -m venv .venv
    c. **Aktiviere die virtuelle Umgebung:**
       *   **Linux/macOS:**
 ```bash
-          source .venv/bin/activate
+source .venv/bin/activate
 ```
       *   **Windows (PowerShell):**
+      
 ```powershell
-          .\.venv\Scripts\Activate.ps1
+.\.venv\Scripts\Activate.ps1
 ```
 
       *   **Windows (CMD):**
+      
 ```cmd
-          .\.venv\Scripts\activate.bat
+.\.venv\Scripts\activate.bat
 ```
    
 **3. Python-Abhängigkeiten installieren:**
