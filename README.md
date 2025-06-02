@@ -50,13 +50,17 @@ Es wird dringend empfohlen, eine virtuelle Umgebung zu verwenden, um Abhängigke
 Stelle sicher, dass deine virtuelle Umgebung aktiv ist. Installiere dann die benötigten Python-Pakete:
 ```bash
 pip install google-generativeai Pillow requests pandas numpy matplotlib
+```
 
+
+```bash
      |o_o |
      |:_/ |
     //   \ \
    (|     | )
   /'\_   _/`\
   \___)=(___/k8o5
+``
 
     
 
