@@ -37,13 +37,12 @@ python3 -m venv .venv
 ```powershell
           .\.venv\Scripts\Activate.ps1
 ```
-          (Möglicherweise musst du zuerst `Set-ExecutionPolicy Unrestricted -Scope Process` ausführen, wenn Skripte blockiert werden.)
+
       *   **Windows (CMD):**
 ```cmd
           .\.venv\Scripts\activate.bat
 ```
-      Dein Terminal-Prompt sollte sich ändern und `(.venv)` davor anzeigen.
-
+   
 **3. Python-Abhängigkeiten installieren:**
 
 Stelle sicher, dass deine virtuelle Umgebung aktiv ist. Installiere dann die benötigten Python-Pakete:
