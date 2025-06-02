@@ -60,7 +60,7 @@ pip install google-generativeai Pillow requests pandas numpy matplotlib
    (|     | )
   /'\_   _/`\
   \___)=(___/k8o5
-``
+```
 
     
 
