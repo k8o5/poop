@@ -17,32 +17,31 @@ Folge diesen Schritten, um POOP auf deinem System einzurichten und zu starten.
 Es wird dringend empfohlen, eine virtuelle Umgebung zu verwenden, um Abhängigkeiten zu isolieren.
 
    a. **Klone das Repository:**
-      ```bash
-      git clone https://github.com/k8o5/poop
-      cd poop
-      ```
+```bash
+git clone https://github.com/k8o5/poop
+cd poop
+```
 
    b. **Erstelle eine virtuelle Umgebung:**
       Führe im `poop`-Verzeichnis folgenden Befehl aus:
 ```bash
-      python3 -m venv .venv
+python3 -m venv .venv
 ```
-      (Oder `python -m venv .venv` wenn `python3` nicht dein Standardbefehl für Python 3 ist.)
 
    c. **Aktiviere die virtuelle Umgebung:**
       *   **Linux/macOS:**
-          ```bash
+```bash
           source .venv/bin/activate
-          ```
+```
       *   **Windows (PowerShell):**
-          ```powershell
+```powershell
           .\.venv\Scripts\Activate.ps1
-          ```
+```
           (Möglicherweise musst du zuerst `Set-ExecutionPolicy Unrestricted -Scope Process` ausführen, wenn Skripte blockiert werden.)
       *   **Windows (CMD):**
-          ```cmd
+```cmd
           .\.venv\Scripts\activate.bat
-          ```
+```
       Dein Terminal-Prompt sollte sich ändern und `(.venv)` davor anzeigen.
 
 **3. Python-Abhängigkeiten installieren:**
