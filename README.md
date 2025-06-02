@@ -68,6 +68,5 @@ pip install google-generativeai Pillow requests pandas numpy matplotlib
 Use code with caution.
 
 ❤️ 
-📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
