@@ -46,7 +46,7 @@ source .venv/bin/activate
 
 Stelle sicher, dass deine virtuelle Umgebung aktiv ist. Installiere dann die benötigten Python-Pakete:
 ```bash
-pip install google-generativeai Pillow requests pandas numpy matplotlib
+pip install google-generativeai Pillow requests pandas numpy matplotlib pyautogui
 ```
 
 
